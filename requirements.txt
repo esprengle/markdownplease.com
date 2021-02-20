@@ -2,7 +2,7 @@ Flask==0.10.1
 gunicorn==19.4.5
 html2text==2016.1.8
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.10.1
 MarkupSafe==0.23
 mistune==0.7.1
 requests==2.9.1
